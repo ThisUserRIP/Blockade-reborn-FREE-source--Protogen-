@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1659578019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce34ada1b62c867af6d5b54aaf82f58f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/INBUNDLES/MainMenu/Coins/Actions/Header0.jpg
+- Assets/Content/INBUNDLES/MainMenu/Coins/Actions/Header1.jpg
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2741933231
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui
+      Dependencies: {}
+    Info_1:
+      Name: maintheme
+      Dependencies: {}
+    Info_2:
+      Name: hud
+      Dependencies: {}
+    Info_3:
+      Name: generic_sounds
+      Dependencies: {}
+    Info_4:
+      Name: fonts
+      Dependencies: {}
+    Info_5:
+      Name: soundtrack
+      Dependencies: {}
+    Info_6:
+      Name: player_skins
+      Dependencies: {}
+    Info_7:
+      Name: flags
+      Dependencies: {}
+    Info_8:
+      Name: vehicle_skins
+      Dependencies: {}
+    Info_9:
+      Name: zoomtextures
+      Dependencies: {}
+    Info_10:
+      Name: sounds
+      Dependencies: {}
+    Info_11:
+      Name: actions
+      Dependencies: {}
